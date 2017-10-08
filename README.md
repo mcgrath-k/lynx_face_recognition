@@ -7,6 +7,14 @@ This method is expandable to multiple boards. The feature set data is handed to 
 
 Lynx Face Detection is built on the Xilinx PYNQ platform. All code is contained within a Jupyter notebook, making it easy to visualize.
 
+Team Lynx:
+* Sree Sai
+* Dan Connors
+* Yan Pang
+* Kyle McGrath
+* Daniel Hawronsky
+* Nikhil Korati Prasanna
+
 ## Run it on your PYNQ Board
 
 Prerequisites
