@@ -22,9 +22,14 @@ Prerequisites
 * Webcam
 * Internet Access
 * Monitor (optional)
+* Follow this guide to enable drive networking https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
+
 
 Enter the terminal on your board and run the following:
 ```
+sudo apt-get update
+sudo apt-get install python-pip
+pip3.6 install gspread oauth2client
 cd /home/xilinx/
 git clone https://github.com/x11kjm/lynx.git
 ```
